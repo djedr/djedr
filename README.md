@@ -1,5 +1,6 @@
-### Hi there 👋
+Click the logo to check out my project to improve the software world:
 
+[![TAO avatar](https://avatars.githubusercontent.com/u/68833086?s=100&v=4)](https://www.tree-annotation.org/)
 <!--
 **djedr/djedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
