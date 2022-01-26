@@ -1,4 +1,4 @@
-Hello, my name is Dariusz.
+Hello, my name is Darius.
  
 <table>
   <tr><td><a href="https://jevko.org"><img alt="Jevko logo" src="https://avatars.githubusercontent.com/u/87656753?s=50&v=4" /></a></td><td>I created <a href="https://jevko.org">Jevko</a>, a minimal syntax.</td></tr>
